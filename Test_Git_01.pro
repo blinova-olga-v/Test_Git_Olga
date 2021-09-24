@@ -5,7 +5,9 @@ CONFIG -= qt
 
 SOURCES += \
         MyLib_01.cpp \
+        libolga.cpp \
         main.cpp
 
 HEADERS += \
-    MyLib_01.h
+    MyLib_01.h \
+    libolga.h
