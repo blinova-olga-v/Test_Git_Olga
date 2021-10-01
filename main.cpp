@@ -11,7 +11,7 @@ int main()
 
     Print_Olga_01();
 
-    cout << "Sq(4) = " << Sq(4) << endl; // 3 --> 4
+    cout << "Sq(6) = " << Sq(6) << endl; // 3 --> 4 --> 5 --> 6
 
     return 0;
 }
