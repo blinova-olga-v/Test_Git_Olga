@@ -13,5 +13,7 @@ int main()
 
     cout << "Sq(6) = " << Sq(6) << endl; // 3 --> 4 --> 5 --> 6
 
+    cout << "New line" << endl;
+
     return 0;
 }
